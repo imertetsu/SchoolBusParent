@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706221981791",
+    "project_id": "sburk-334418",
+    "storage_bucket": "sburk-334418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706221981791:android:65f26ba2db1da30bc01bea",
+        "android_client_info": {
+          "package_name": "com.creativeapps.schoolbustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706221981791-f03ukv7d1gkt8acqt5r19duqfe74j6i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzaCYxMzUwqaGce6JA3eCxrj2wP0XyQJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706221981791-f03ukv7d1gkt8acqt5r19duqfe74j6i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
